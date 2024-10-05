@@ -1,9 +1,11 @@
 <template>
-    <Header :notification="'안녕하세요'"></Header>
+    <Header :notification="''"></Header>
+    <Banner/>
 </template>
 
 <script setup>
 import { ref } from 'vue';
+import Banner from '@/components/Banner.vue';
 import Header from '@/components/Header.vue';
 </script>
 
