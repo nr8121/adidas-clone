@@ -126,7 +126,11 @@ input {
     outline: none;
 }
 
-.slide-enter-active,
+.slide-enter-active {
+    transition: transform 0.5s ease;
+    transition-delay: 0.5s;
+}
+
 .slide-leave-active {
     transition: transform 0.5s ease;
 }
