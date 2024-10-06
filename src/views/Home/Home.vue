@@ -1,7 +1,6 @@
 <template>
     <Header :notification="''"></Header>
     <Banner/>
-    <Banner/>
 </template>
 
 <script setup>
