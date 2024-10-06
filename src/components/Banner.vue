@@ -22,8 +22,8 @@
         <picture class="relative z-[-2]">
             <source srcset="/images/banner-lg.avif" media="(min-width: 960px)" width="2880" height="1280">
             <source srcset="/images/banner-md.avif" media="(min-width: 768px)" width="1600" height="1600">
-            <source srcset="/images/banner-sm.avif" media="(max-width: 767px)" width="750" height="964"><img
-                src="/images/banner-df.avif" alt="banner" loading="eager" fetchpriority="high">
+            <source srcset="/images/banner-sm.avif" media="(max-width: 767px)" width="750" height="964">
+            <img src="/images/banner-df.avif" alt="banner" loading="eager" fetchpriority="high">
         </picture>
     </section>
 </template>

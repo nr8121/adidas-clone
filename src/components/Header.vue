@@ -19,10 +19,10 @@
                     </ul>
                 </div>
                 <div class="flex h-12">
-                    <div class="basis-1/4">
+                    <div class="basis-[20%]">
                         <LogoAdidas class="w-16" />
                     </div>
-                    <div class="basis-1/2 flex justify-center">
+                    <div class="basis-[55%] flex justify-center">
                         <ul class="flex">
                             <li class="flex items-center hover:border-b-stone-950 hover:border-b-3">
                                 <a class="font-bold text-sm">MEN</a>
@@ -47,9 +47,9 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="flex basis-1/4 items-center">
+                    <div class="flex basis-[25%] items-center">
                         <div class="flex justify-center items-center bg-gray-200 px-2 py-1 border">
-                            <input type="text" placeholder="Search" class="flex-1 text-sm">
+                            <input type="text" placeholder="Search" class="flex-1 text-sm p-1">
                             <IconSearch class="w-6 h-6" />
                         </div>
                         <div>
