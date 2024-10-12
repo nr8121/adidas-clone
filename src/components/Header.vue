@@ -90,7 +90,6 @@ let lastScrollTop = 0;
 
 const handleScroll = () => {
     let currentScroll = window.scrollY || document.documentElement.scrollTop;
-    console.log(currentScroll)
     if (currentScroll > lastScrollTop && currentScroll > 128) {
         // 스크롤 다운 & 헤더가 사라지게 설정
         isHeaderVisible.value = false;
