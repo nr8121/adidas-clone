@@ -5,6 +5,7 @@
     <XSlideContent/>
     <BlogSection/>
     <HistorySection/>
+    <Footer />
 </template>
 
 <script setup>
@@ -14,6 +15,7 @@ import Header from '@/components/Header.vue';
 import XSlideContent from '@/components/XSlideContent.vue';
 import BlogSection from '@/components/BlogSection.vue';
 import HistorySection from '@/components/HistorySection.vue';
+import Footer from '@/components/Footer.vue';
 </script>
 
 <style scoped></style>

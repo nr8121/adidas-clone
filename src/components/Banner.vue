@@ -32,5 +32,6 @@
 import IconArrowLong from "@/components/icons/IconArrowLong.vue"
 </script>
 
-<style scoped></style>
+<style scoped>
 
+</style>
