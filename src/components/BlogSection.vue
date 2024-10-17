@@ -4,7 +4,7 @@
             <p class="text-2xl font-semibold">아디다스 블로그</p>
         </div>
         <div class="flex px-[3rem]">
-            <div class="basis-[22%] pr-[1rem]">
+            <div class="basis-[23%] pr-[1rem] aspect-[4/3]">
                 <picture>
                     <source
                         srcset="https://brand.assets.adidas.com/image/upload/running_fw24_ub5_global_sustain_blog_great_running_shoe_masthead_primary_d_cd3777a599.jpg"
@@ -26,7 +26,7 @@
                     <p class="line-clamp-4 text-lg">울트라부스트는 과연 좋은 러닝화일까? 물론입니다. 트레일 러너부터 풀 마라톤을 준비하는 러너까지, 아디다스 울트라부스트5가 왜 좋은 러닝화인지 그 이유를 알려드리려 합니다.</p>
                 </div>
             </div>
-            <div class="basis-[22%] pr-[1rem]">
+            <div class="basis-[23%] pr-[1rem] aspect-[4/3]">
                 <picture>
                     <source
                         srcset="https://brand.assets.adidas.com/image/upload/running_fw24_ub5_global_sustain_blog_great_running_shoe_masthead_primary_d_cd3777a599.jpg"
@@ -48,7 +48,7 @@
                     <p class="line-clamp-4 text-lg">울트라부스트는 과연 좋은 러닝화일까? 물론입니다. 트레일 러너부터 풀 마라톤을 준비하는 러너까지, 아디다스 울트라부스트5가 왜 좋은 러닝화인지 그 이유를 알려드리려 합니다.</p>
                 </div>
             </div>
-            <div class="basis-[22%] pr-[1rem]">
+            <div class="basis-[23%] pr-[1rem] aspect-[4/3]">
                 <picture>
                     <source
                         srcset="https://brand.assets.adidas.com/image/upload/running_fw24_ub5_global_sustain_blog_great_running_shoe_masthead_primary_d_cd3777a599.jpg"
@@ -70,7 +70,7 @@
                     <p class="line-clamp-4 text-lg">울트라부스트는 과연 좋은 러닝화일까? 물론입니다. 트레일 러너부터 풀 마라톤을 준비하는 러너까지, 아디다스 울트라부스트5가 왜 좋은 러닝화인지 그 이유를 알려드리려 합니다.</p>
                 </div>
             </div>
-            <div class="basis-[22%] pr-[1rem]">
+            <div class="basis-[23%] pr-[1rem] aspect-[4/3]">
                 <picture>
                     <source
                         srcset="https://brand.assets.adidas.com/image/upload/running_fw24_ub5_global_sustain_blog_great_running_shoe_masthead_primary_d_cd3777a599.jpg"

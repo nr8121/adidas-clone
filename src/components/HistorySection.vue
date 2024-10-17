@@ -1,7 +1,7 @@
 <template>
-    <div class="flex bg-black">
-        <h1 class="text-white">1949년부터, 스토리와 스타일, 스포츠를 이끌다</h1>
-        <p class="text-white">
+    <div class="flex flex-col bg-black py-[5rem]">
+        <p class="text-white text-4xl font-bold m-auto">1949년부터, 스토리와 스타일, 스포츠를 이끌다</p>
+        <p class="text-white m-[3rem]">
             스포츠는 건강을 지키며, 내면을 밝혀주고, 우리를 하나로 이어줍니다. 아디다스는 스포츠를 통해 세상을 바꿀 수있다고 믿습니다. 세계무대를 빛내는 스포츠 선수에서, 평범한 사람들의 일상에
             이르기까지, 우리는 최상의 테크놀로지로 최상의 퍼포먼스를 선사합니다. 러닝에서 바스켓볼, 축구, 피트니스까지. 아디다스와 함께 새로운 나의 모습을 만나보세요. 가끔은 도시를 벗어나 아웃도어를
             즐기고, 요가를 통해공동체와 하나가 되어보세요. 3-스트라이프의 헤리티지는 문화로까지 이어집니다. 스포츠는 물론, 음악과 일상의 스트릿까지 말이죠. 휘슬이 울리기 직전의 출발선으로부터, 질주의
@@ -12,9 +12,13 @@
             제품과 스타일을 제공하고 동시에 환경의 지속가능성을 지켜 나가고 있습니다. 아디다스는 크리에이터의 브랜드입니다. 게임의 판도를 바꾸고, 변화를 이끕니다. 그리고 우리는 우리가 지닌 영향력으로
             세상을 어떻게 만들어 나갈지 고민합니다.
         </p>
+        <div class="flex justify-center">
+            <LogoAdidas class="w-10 h-10 fill-white" />
+        </div>
     </div>
 </template>
 
-<script>
+<script setup>
+import LogoAdidas from './icons/LogoAdidas.vue';
 </script>
 <style scoped></style>
