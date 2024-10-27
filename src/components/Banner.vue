@@ -1,6 +1,6 @@
 <template>
     <section class="relative">
-        <div class="absolute flex h-full ml-16">
+        <div class="absolute flex h-full ml-16 z-10"> <!-- 사파리는 z-index 1은 잘 안먹힘 ...-->
             <div class="flex flex-col justify-end pb-14">
                 <div class="mb-2 bg-white">
                     <span class="font-semibold bg-white text-2xl px-1 py-[2px]">UNLOCK THE BEST OF ADICLUB</span>
@@ -19,7 +19,7 @@
                 </div>
             </div>
         </div>
-        <picture class="relative z-[-2]">
+        <picture class="relative">
             <source srcset="/images/banner-lg.avif" media="(min-width: 960px)" width="2880" height="1280">
             <source srcset="/images/banner-md.avif" media="(min-width: 768px)" width="1600" height="1600">
             <source srcset="/images/banner-sm.avif" media="(max-width: 767px)" width="750" height="964">
@@ -32,6 +32,4 @@
 import IconArrowLong from "@/components/icons/IconArrowLong.vue"
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
